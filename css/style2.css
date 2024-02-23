@@ -30,7 +30,7 @@ body {
 }
 
 p {
-  color: rgb(40, 221, 179);
+  color: rgb(40 221 179);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
   padding-top: 5pt;
